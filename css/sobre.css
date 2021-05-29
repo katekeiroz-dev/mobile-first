@@ -16,6 +16,7 @@
 
 .sobre__texto {
     line-height: normal;
+    line-height: "";
 
     margin-bottom: 1rem;
 }
